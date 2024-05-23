@@ -1,5 +1,5 @@
 # About Me:
-UC Santa Cruz CS Game Design<br>I'm currently working on a VR Game 💫 <br>
+UC Santa Cruz Computer Engineering Student<br>I'm currently working on a VR Game 💫 <br>
 
 
 ## Socials:
