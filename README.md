@@ -1,7 +1,7 @@
 # About Me:
 UC Santa Cruz Computer Engineering Student<br>I'm currently working on a VR Game 💫<be>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidangu&layout=donut)](https://github.com/aidangu/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidangu&layout=compact&langs_count=10&theme=github_dark)
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aidan.gu.7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aidan._.gu/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Aidan_Gu) 
